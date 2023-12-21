@@ -11,7 +11,6 @@
 
 body {
   background-color: v.$p-color;
-  //background-color: white;
 }
 
 header {
@@ -40,7 +39,7 @@ main {
     justify-content: center;
     gap: 20px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-      url(/public/frames-for-your-heart-iOLHAIaxpDA-unsplash.jpg);
+      url(/frames-for-your-heart-iOLHAIaxpDA-unsplash.jpg);
     background-position: center;
     background-size: cover;
 
