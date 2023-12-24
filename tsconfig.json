@@ -20,5 +20,5 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src"],
-  "base": "vite-deploy-demo"
+  // "base": "vite-deploy-demo"
 }
